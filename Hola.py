@@ -1,1 +1,3 @@
-print("Hola Washington")
+data= "Hola mundo"
+print(data)
+
